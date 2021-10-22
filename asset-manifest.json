@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reach-sponsored/static/css/main.85d411ca.chunk.css",
+    "main.js": "/reach-sponsored/static/js/main.36a20c6c.chunk.js",
+    "main.js.map": "/reach-sponsored/static/js/main.36a20c6c.chunk.js.map",
+    "runtime-main.js": "/reach-sponsored/static/js/runtime-main.28ae9930.js",
+    "runtime-main.js.map": "/reach-sponsored/static/js/runtime-main.28ae9930.js.map",
+    "static/js/2.f5eef890.chunk.js": "/reach-sponsored/static/js/2.f5eef890.chunk.js",
+    "static/js/2.f5eef890.chunk.js.map": "/reach-sponsored/static/js/2.f5eef890.chunk.js.map",
+    "index.html": "/reach-sponsored/index.html",
+    "static/css/main.85d411ca.chunk.css.map": "/reach-sponsored/static/css/main.85d411ca.chunk.css.map",
+    "static/js/2.f5eef890.chunk.js.LICENSE.txt": "/reach-sponsored/static/js/2.f5eef890.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ae9930.js",
+    "static/js/2.f5eef890.chunk.js",
+    "static/css/main.85d411ca.chunk.css",
+    "static/js/main.36a20c6c.chunk.js"
+  ]
+}
